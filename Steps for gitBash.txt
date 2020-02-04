@@ -18,3 +18,26 @@ git config --global user.name "Priyanka Pramanik"
 git config --global user.email "priyankapramanik52@gmail.com"
 
 git config --global color.ui auto
+
+
+
+//to clone an reprository
+go to the initialised folder 
+right click mouse
+click on git bash
+
+	git clone url
+
+
+// check status if any modification has been made
+
+	git status
+
+//add a text file to repository and made changes to it
+	click on repository
+	right click open bash
+	git add . // add everything to the staging index
+	git commit -m " some message"
+	git push origin master //to update to the repository present online
+
+//
