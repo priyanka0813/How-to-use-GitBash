@@ -1,0 +1,17 @@
+
+
+// how to initialise a profile
+
+
+
+got to that folder
+right click mouse
+git bash
+type 
+
+	git init
+
+
+//hot to clone
+
+jnnlbhkgckg,kgk
