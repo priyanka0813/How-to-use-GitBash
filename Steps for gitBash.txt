@@ -44,4 +44,5 @@ click on git bash
 	git reset "filename.txt"
 
 
+some changes
 	
