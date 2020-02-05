@@ -33,3 +33,9 @@
 	git remote update //to update the remote repo according to the local repo
 	git branch -d BranchNameThatYouWantTodelete //branch name will be deleted
 	git branch //check again 	
+
+//how to move one file to a folder with in repository
+	create a folder in a local repository 
+	git mv "filename.txt" "folder name"
+
+
