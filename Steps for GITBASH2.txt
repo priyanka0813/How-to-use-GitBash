@@ -15,4 +15,15 @@
 	done
 
 
+//how to merge two branch
+
+	if you have only one branch other than the master
+	then git checkout master
+	git merge newBranchName
+	git commit -m"message"
+	git pull 
+	git push origin master
+	//visit your profule it will be updated
+
+
 	
