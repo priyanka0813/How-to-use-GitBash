@@ -15,6 +15,7 @@
 	done
 
 
+
 //how to merge two branch
 
 	if you have only one branch other than the master
@@ -25,4 +26,10 @@
 	git push origin master
 	//visit your profule it will be updated
 
-//MODIFY
+
+//how to delete a branch from the git bash
+	go to git bash
+	git branch //to see the no of branch present in the repo
+	git remote update //to update the remote repo according to the local repo
+	git branch -d BranchNameThatYouWantTodelete //branch name will be deleted
+	git branch //check again 	
