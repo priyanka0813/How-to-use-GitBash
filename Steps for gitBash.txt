@@ -44,5 +44,14 @@ click on git bash
 	git reset "filename.txt"
 
 
-some changes
+
+//how to use stash
+
+	//stash is used to go some work and keep it in a stack for later use
+	//formulas to be used are as follows 
+	
+	git stash // stash the content of the file
+	git stash list //we can see the list of content kept in the stash
+	git stash pop IdOfTheStash
+
 	
