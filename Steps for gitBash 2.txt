@@ -1,1 +1,18 @@
 // to create new branch in repo other tha master
+
+	go to gitbash
+	from branch master create a new branch //every new branch will be made from brancg master
+	git branch -b newBranchNAme
+	git checkout newBranchName //from master branch we switch to the newBranchName
+	then create a file in the local desktop
+	git add .
+	git commit -m "message"
+	git push origin newBranchName
+	
+	got to the github profile
+	click on the repo name
+	you will see the added branch
+	done
+
+
+	
